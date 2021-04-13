@@ -4,7 +4,7 @@
 
     Project name: FlightGearExplorer
 
-    Description: A dekstop application which allows the user to research and understand a given flight done by a given aircraft in this     case a Cessna 182. 
+    Description: A dekstop application which allows the user to research and understand a given flight done by a given aircraft in this     case a Cessna 172. 
     
     
     Table of Contents: 
@@ -27,7 +27,7 @@
     DEPENDENCIES REQUIREMENTS  : CSVHELPER , EXTREME.NUMERICS , MATH.NET.NUMERICS , OXYPLOT . 
     
   
-    FIRST USE : ONCE ALL INSTALLATION AND DEPENDENCIES REQUIREMENTS ARE MET  AND YOU ARE IN THE IDE WINDOW. MAKE SURE YOU ARE RUNNING THE CURRENT APPLICATION BASED ON THE C# PROJECT. SEE VIDEO EXPLANATION ATTACHED 
+    FIRST USE : ONCE ALL INSTALLATION AND DEPENDENCIES REQUIREMENTS ARE MET  AND YOU ARE IN THE IDE WINDOW. MAKE SURE YOU ARE RUNNING THE  CURRENT APPLICATION BASED ON THE C# PROJECT. SEE VIDEO EXPLANATION ATTACHED 
 
     
 
